@@ -1,7 +1,7 @@
 # ComputeClassificationScore
 python module to compute machine learning classification score.
 
-	ComputeClassificationScore.py is python translation of code provided at
+	ClassifierScore.py is python translation of code provided at
 	http://www.mathworks.com/matlabcentral/fileexchange/37758-performance-measures-for-classification/content/Evaluate.m
 	
 	With changes only to return of function CalculateScore(), it can compute
