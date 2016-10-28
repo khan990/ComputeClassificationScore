@@ -16,7 +16,7 @@ python module to compute machine learning classification score.
 		Null value exception may arise while computing precision. Some changes are needed to be made to make it bug free.
 		This function was tested with python 3. numpy, sklearn and collection packages required.
 	
-##Required Packages
+##Requirements
 	1. numpy
 	2. sklearn
 	3. collection
